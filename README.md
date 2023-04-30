@@ -12,9 +12,22 @@ Keyboard stroke: `letter + ~`
 
 2. central vowel
 
+2.1 standardised transcription
+
 Keyboard stroke: `letter + ****`
 
-	- u̇ U̇ ė Ė
+	- u̇ U̇ ė Ė i̇ İ
+
+2.2 original transcription
+
+Keyboard stroke: `I + =` → **ɨ** (close unrounded)
+Keyboard stroke: `U + =` → **ʉ** (close rounded)
+Keyboard stroke: `E + =` → **ɘ** (close-mid unrounded)
+Keyboard stroke: `e + =` → **ə** (mid)
+Keyboard stroke: `e + >` → **ɜ** (open-mid unrounded)
+Keyboard stroke: `O + =` → **ɵ** (close-mid rounded)
+Keyboard stroke: `O + <` → **ɞ** (open-mid rounded)
+Keyboard stroke: `a + >` → **ɐ** (near-open)
 
 3. nasalised central vowel
 
