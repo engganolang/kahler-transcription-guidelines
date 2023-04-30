@@ -14,27 +14,27 @@ Keyboard stroke: `letter + ~`
 
 	a) standardised transcription
 
-		Keyboard stroke: `letter + ****`
+	Keyboard stroke: `letter + ****`
 
-			- u̇ U̇ ė Ė i̇ İ
+		- u̇ U̇ ė Ė i̇ İ
 
 	b) original transcription
 
-		Keyboard stroke: `I + =` → **ɨ** (close unrounded)
+	Keyboard stroke: `I + =` → **ɨ** (close unrounded)
 		
-		Keyboard stroke: `U + =` → **ʉ** (close rounded)
+	Keyboard stroke: `U + =` → **ʉ** (close rounded)
 		
-		Keyboard stroke: `E + =` → **ɘ** (close-mid unrounded)
+	Keyboard stroke: `E + =` → **ɘ** (close-mid unrounded)
 
-		Keyboard stroke: `e + =` → **ə** (mid)
+	Keyboard stroke: `e + =` → **ə** (mid)
 
-		Keyboard stroke: `e + >` → **ɜ** (open-mid unrounded)
+	Keyboard stroke: `e + >` → **ɜ** (open-mid unrounded)
 
-		Keyboard stroke: `O + =` → **ɵ** (close-mid rounded)
+	Keyboard stroke: `O + =` → **ɵ** (close-mid rounded)
 
-		Keyboard stroke: `O + <` → **ɞ** (open-mid rounded)
+	Keyboard stroke: `O + <` → **ɞ** (open-mid rounded)
 
-		Keyboard stroke: `a + >` → **ɐ** (near-open)
+	Keyboard stroke: `a + >` → **ɐ** (near-open)
 
 3) nasalised central vowel
 
