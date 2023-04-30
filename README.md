@@ -20,10 +20,16 @@ Keyboard stroke: `letter + ****`
 
 Keyboard stroke: `letter + **** + ~`
 
-	- u̇̃ U̇̃
+	- u̇̃ U̇̃ ė̃ Ė̃
 
 4. acute accent
 
 Keyboard stroke: `letter + @ + 3`
 
 	- á Á í Í ú Ú é É ó Ó
+
+5. grave accent
+
+Keyboard stroke: `letter + @ + 1`
+
+	- à À ì Ì ù Ù è È ò Ò
