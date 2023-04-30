@@ -14,10 +14,16 @@ Keyboard stroke: `letter + ~`
 
 Keyboard stroke: `letter + ****`
 
-	- ȧ Ȧ i̇ İ u̇ U̇ ė Ė ȯ Ȯ
+	- u̇ U̇ ė Ė
 
 3. nasalised central vowel
 
 Keyboard stroke: `letter + **** + ~`
 
-	- ȧ̃
+	- u̇̃ U̇̃
+
+4. acute accent
+
+Keyboard stroke: `letter + @ + 3`
+
+	- á Á í Í ú Ú é É ó Ó
