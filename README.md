@@ -4,52 +4,34 @@ standardisation in the transcription of Kähler's (1987).
 
 ## list of characters
 
-1) nasal
+1. nasal
 
-Keyboard stroke: `letter + ~`
+	Keyboard stroke: `letter + ~` → **ã Ã ĩ Ĩ ũ Ũ ẽ Ẽ õ Õ**
 
-	- ã Ã ĩ Ĩ ũ Ũ ẽ Ẽ õ Õ
+2. central vowel
+    1. standardised transcription
 
-2) central vowel
+	Keyboard stroke: `letter + ****` → **u̇ U̇ ė Ė i̇ İ**
 
-	a) standardised transcription
-
-	Keyboard stroke: `letter + ****`
-
-		- u̇ U̇ ė Ė i̇ İ
-
-	b) original transcription
+	2. original transcription
 
 	Keyboard stroke: `I + =` → **ɨ** (close unrounded)
-		
 	Keyboard stroke: `U + =` → **ʉ** (close rounded)
-		
 	Keyboard stroke: `E + =` → **ɘ** (close-mid unrounded)
-
 	Keyboard stroke: `e + =` → **ə** (mid)
-
 	Keyboard stroke: `e + >` → **ɜ** (open-mid unrounded)
-
 	Keyboard stroke: `O + =` → **ɵ** (close-mid rounded)
-
 	Keyboard stroke: `O + <` → **ɞ** (open-mid rounded)
-
 	Keyboard stroke: `a + >` → **ɐ** (near-open)
 
-3) nasalised central vowel
+3. nasalised central vowel
 
-Keyboard stroke: `letter + **** + ~`
+	Keyboard stroke: `letter + **** + ~` → **u̇̃ U̇̃ ė̃ Ė̃**
 
-	- u̇̃ U̇̃ ė̃ Ė̃
+4. acute accent
 
-4) acute accent
+	Keyboard stroke: `letter + @ + 3` → **á Á í Í ú Ú é É ó Ó**
 
-Keyboard stroke: `letter + @ + 3`
+5. grave accent
 
-	- á Á í Í ú Ú é É ó Ó
-
-5) grave accent
-
-Keyboard stroke: `letter + @ + 1`
-
-	- à À ì Ì ù Ù è È ò Ò
+	Keyboard stroke: `letter + @ + 1` → **à À ì Ì ù Ù è È ò Ò**
