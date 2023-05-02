@@ -7,11 +7,13 @@ standardisation in the transcription of Kähler's (1987).
 1. nasal
 
 	Keyboard stroke: `letter + ~` → **ã  Ã  ĩ  Ĩ  ũ  Ũ  ẽ  Ẽ  õ  Õ**
+	Note: correctly rendered in the Enggano entry system
 
 2. central vowel
     1. standardised transcription
 
 		Keyboard stroke: `letter + ****` → **ȧ  Ȧ  i̇  İ  u̇  U̇  ė  Ė ȯ  Ȯ**
+		Note: correctly rendered in the Enggano entry system
 
 	2. original transcription
 
@@ -35,6 +37,7 @@ standardisation in the transcription of Kähler's (1987).
 	1. standardised transcription
 
 		Keyboard stroke: `letter + **** + ~` → **ȧ̃  Ȧ̃  i̇̃  İ̃  u̇̃  U̇̃  ė̃  Ė̃  ȯ̃  Ȯ̃**
+		Note: correctly rendered in the Enggano entry system
 
 	2. original transcription
 
@@ -57,9 +60,15 @@ standardisation in the transcription of Kähler's (1987).
 4. acute accent
 
 	Keyboard stroke: `letter + @ + 3` → **á  Á  í  Í  ú  Ú  é  É  ó  Ó**
+	Note: correctly rendered in the Enggano entry system
 
 5. grave accent
 
 	Keyboard stroke: `letter + @ + 1` → **à  À  ì  Ì  ù  Ù  è  È  ò  Ò**
+	Note: correctly rendered in the Enggano entry system
 
+6. nasalised with acute accent
+
+	Keyboard stroke: `letter + ~ + @ + 3` → **ã́  Ã́** ...
+	Note: correctly rendered in the Enggano entry system
 
