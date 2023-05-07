@@ -1,6 +1,5 @@
 This repository contains PDF notes for transcribers to generate 
-characters with diacritics with [IPA (SIL) Keyman](https://help.keyman.com/keyboard/sil_ipa/1.8.6/sil_ipa) and for orthographic 
-standardisation in the transcription of Kähler's (1987).
+characters with diacritics with [IPA (SIL) Keyman](https://help.keyman.com/keyboard/sil_ipa/1.8.6/sil_ipa) and for the transcription of Kähler's (1987).
 
 ## list of characters
 
@@ -84,3 +83,7 @@ standardisation in the transcription of Kähler's (1987).
 8. velar nasal (ŋ)
 
 	Keyboard stroke: `n + >` → **ŋ**
+
+9. back rounded open-mid vowel (ɔ)
+
+	Keyboard stroke: `o + <` → **ɔ** 
