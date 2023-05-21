@@ -1,5 +1,12 @@
 This repository contains PDF notes for transcribers to generate 
-characters with diacritics with [IPA (SIL) Keyman](https://help.keyman.com/keyboard/sil_ipa/1.8.6/sil_ipa) and for the transcription of Kähler's (1987).
+characters with diacritics with [IPA (SIL) 
+Keyman](https://help.keyman.com/keyboard/sil_ipa/1.8.6/sil_ipa) and for the transcription of 
+Kähler's (1987) Enggano-German dictionary.
+
+News related to Kähler's Enggano-German digitisation sub-task are available 
+[here](https://enggano.ling-phil.ox.ac.uk/static/compressed-images/Kahler-transcription/photos.html) 
+(linked from [here](https://enggano.ling-phil.ox.ac.uk/static/previous.html)) and 
+[here](https://sasing.unud.ac.id/posts/boel-students-involved-in-research-project-led-by-researchers-from-the-university-of-oxford-uk). 
 
 ## list of characters
 
