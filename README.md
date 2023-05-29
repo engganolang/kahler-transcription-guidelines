@@ -5,7 +5,10 @@ Kähler's (1987) Enggano-German dictionary.
 
 News related to Kähler's Enggano-German digitisation sub-task are available 
 [here](https://enggano.ling-phil.ox.ac.uk/static/compressed-images/Kahler-transcription/photos.html) 
-(linked from [here](https://enggano.ling-phil.ox.ac.uk/static/previous.html)) and 
+(linked from 
+[here](https://enggano.ling-phil.ox.ac.uk/static/previous.html)), 
+[here](https://www.ling-phil.ox.ac.uk/news/2023/05/28/retro-digitisation-work-enggano-german-dictionary-udayana-university-indonesia), 
+and 
 [here](https://sasing.unud.ac.id/posts/boel-students-involved-in-research-project-led-by-researchers-from-the-university-of-oxford-uk). 
 
 ## list of characters
